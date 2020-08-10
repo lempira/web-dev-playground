@@ -1,2 +1,2 @@
 # web-dev-playground
-full stack playgroung
+A playground to play with the request response behavior of client/server through a proxy
